@@ -9,6 +9,7 @@ namespace SpaceGame
         static void Main(string[] args)
         {
             // ToDo:
+            // - Neue rasse einfügen.
             // - Befehle definieren
             // - Befehle einlesen und bearbeiten
             // - Auswertungen für jede Faktion einzeln ausgeben
